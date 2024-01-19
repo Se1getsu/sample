@@ -1,3 +1,5 @@
 sample/aaa
 aaa
-sample/bbb.txt
+# 全ての以下の記述によりbbb.txtは全て無視される。
+# sampleリポジトリ直下のファイルを無視する場合はこうするしかない模様。
+bbb.txt
